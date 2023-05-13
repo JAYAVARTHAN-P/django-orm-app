@@ -57,4 +57,4 @@ class studentAdmin(admin.ModelAdmin):
 
 
 ## RESULT
-Program executed successfully!
+The program for coressponding on student database using ORM is executed sucessfully.
