@@ -33,7 +33,8 @@ from django.contrib import admin from .models import Employee,EmployeeAdmin admi
 
 ## OUTPUT
 
-![image](https://github.com/JAYAVARTHAN-P/django-orm-app/assets/121369281/bb314a37-e1b5-49e4-8166-4869fdc99f59)
+![omr main jaya](https://github.com/JAYAVARTHAN-P/django-orm-app/assets/121369281/17399c38-f3f0-490b-b8a0-0a81d8ab9c75)
+
 
 
 
