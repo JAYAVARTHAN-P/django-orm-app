@@ -25,6 +25,7 @@ STEP 4:
 Execute Django admin and create 10 employees
 
 ## PROGRAM
+```
 admin.py 
 
 from django.contrib import admin
@@ -44,6 +45,7 @@ class student (models.Model):
 
 class studentAdmin(admin.ModelAdmin):
     list_display=('sid','name','regno','marks','email')
+```    
 
 
 
