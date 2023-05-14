@@ -51,8 +51,8 @@ class studentAdmin(admin.ModelAdmin):
 
 ## OUTPUT
 
-![omr main jaya](https://github.com/JAYAVARTHAN-P/django-orm-app/assets/121369281/17399c38-f3f0-490b-b8a0-0a81d8ab9c75)
 
+![Screenshot (39)](https://github.com/JAYAVARTHAN-P/django-orm-app/assets/121369281/285482be-ffe8-4b8d-bc04-b74af58eeb8f)
 
 
 
