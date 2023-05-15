@@ -3,10 +3,6 @@
 ## AIM
 To develop a Django application to store and retrieve data from a database using Object Relational Mapping(ORM).
 
-## Entity Relationship Diagram
-![omr entity](https://github.com/JAYAVARTHAN-P/django-orm-app/assets/121369281/b44a6f00-8a4d-403f-865b-cea7af5fb921)
-
-
 ## DESIGN STEPS
 STEP 1:
 
@@ -50,10 +46,7 @@ class studentAdmin(admin.ModelAdmin):
 
 
 ## OUTPUT
-
-![ORM](https://github.com/JAYAVARTHAN-P/django-orm-app/assets/121369281/b87c6e45-3fb0-4e09-a63c-40015e796ea2)
-
-
+![ex2](https://github.com/JAYAVARTHAN-P/django-orm-app/assets/121369281/f36b362c-9bfd-41b8-a9ce-97b140f14c04)
 
 
 ## RESULT
